@@ -28,9 +28,9 @@ It serves as a practical exercise for revisiting key programming principles and 
 
 The project is organized into **three main folders** for clarity and maintainability:
 
-1. **Planning:** Contains a `.txt` document outlining the application's design and logic.
-2. **Execution:** Houses the main application files.
-3. **Testing:** Stores test cases and execution logs for verifying functionality.
+1. **`Planning/`** – Contains a `.txt` document outlining the application's design and logic.
+2. **`Building/MiniGuestBookDemoApp/`** – Houses the main application files.
+3. **`Evaluating/`** – Stores test cases and execution logs for verifying functionality.
 
 ---
 
