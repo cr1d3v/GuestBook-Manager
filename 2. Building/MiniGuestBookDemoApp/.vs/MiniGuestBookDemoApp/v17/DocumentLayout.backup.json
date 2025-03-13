@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cr1d3\\Desktop\\C#\\Tim Corey - C# Mastercourse\\10. Mini Project - Guest Book\\take 2\\2. Building\\MiniGuestBookDemoApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{604222A9-E457-4B20-8474-468BE177DCE1}|MiniGuestBookDemo\\MiniGuestBookDemo.csproj|c:\\users\\cr1d3\\desktop\\c#\\tim corey - c# mastercourse\\10. mini project - guest book\\take 2\\2. building\\miniguestbookdemoapp\\miniguestbookdemo\\guestbooklogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{604222A9-E457-4B20-8474-468BE177DCE1}|MiniGuestBookDemo\\MiniGuestBookDemo.csproj|solutionrelative:miniguestbookdemo\\guestbooklogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{604222A9-E457-4B20-8474-468BE177DCE1}|MiniGuestBookDemo\\MiniGuestBookDemo.csproj|c:\\users\\cr1d3\\desktop\\c#\\tim corey - c# mastercourse\\10. mini project - guest book\\take 2\\2. building\\miniguestbookdemoapp\\miniguestbookdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{604222A9-E457-4B20-8474-468BE177DCE1}|MiniGuestBookDemo\\MiniGuestBookDemo.csproj|solutionrelative:miniguestbookdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 210,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GuestBookLogic.cs",
+              "DocumentMoniker": "C:\\Users\\cr1d3\\Desktop\\C#\\Tim Corey - C# Mastercourse\\10. Mini Project - Guest Book\\take 2\\2. Building\\MiniGuestBookDemoApp\\MiniGuestBookDemo\\GuestBookLogic.cs",
+              "RelativeDocumentMoniker": "MiniGuestBookDemo\\GuestBookLogic.cs",
+              "ToolTip": "C:\\Users\\cr1d3\\Desktop\\C#\\Tim Corey - C# Mastercourse\\10. Mini Project - Guest Book\\take 2\\2. Building\\MiniGuestBookDemoApp\\MiniGuestBookDemo\\GuestBookLogic.cs",
+              "RelativeToolTip": "MiniGuestBookDemo\\GuestBookLogic.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA+wFkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T20:48:24.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cr1d3\\Desktop\\C#\\Tim Corey - C# Mastercourse\\10. Mini Project - Guest Book\\take 2\\2. Building\\MiniGuestBookDemoApp\\MiniGuestBookDemo\\Program.cs",
+              "RelativeDocumentMoniker": "MiniGuestBookDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\cr1d3\\Desktop\\C#\\Tim Corey - C# Mastercourse\\10. Mini Project - Guest Book\\take 2\\2. Building\\MiniGuestBookDemoApp\\MiniGuestBookDemo\\Program.cs",
+              "RelativeToolTip": "MiniGuestBookDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T20:46:11.019Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

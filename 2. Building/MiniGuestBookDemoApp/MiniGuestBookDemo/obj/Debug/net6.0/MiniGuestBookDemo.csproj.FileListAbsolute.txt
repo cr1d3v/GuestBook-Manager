@@ -1,0 +1,14 @@
+C:\Users\cr1d3\Desktop\C#\Tim Corey - C# Mastercourse\10. Mini Project - Guest Book\take 2\2. Building\MiniGuestBookDemoApp\MiniGuestBookDemo\bin\Debug\net6.0\MiniGuestBookDemo.exe
+C:\Users\cr1d3\Desktop\C#\Tim Corey - C# Mastercourse\10. Mini Project - Guest Book\take 2\2. Building\MiniGuestBookDemoApp\MiniGuestBookDemo\bin\Debug\net6.0\MiniGuestBookDemo.deps.json
+C:\Users\cr1d3\Desktop\C#\Tim Corey - C# Mastercourse\10. Mini Project - Guest Book\take 2\2. Building\MiniGuestBookDemoApp\MiniGuestBookDemo\bin\Debug\net6.0\MiniGuestBookDemo.runtimeconfig.json
+C:\Users\cr1d3\Desktop\C#\Tim Corey - C# Mastercourse\10. Mini Project - Guest Book\take 2\2. Building\MiniGuestBookDemoApp\MiniGuestBookDemo\bin\Debug\net6.0\MiniGuestBookDemo.dll
+C:\Users\cr1d3\Desktop\C#\Tim Corey - C# Mastercourse\10. Mini Project - Guest Book\take 2\2. Building\MiniGuestBookDemoApp\MiniGuestBookDemo\bin\Debug\net6.0\MiniGuestBookDemo.pdb
+C:\Users\cr1d3\Desktop\C#\Tim Corey - C# Mastercourse\10. Mini Project - Guest Book\take 2\2. Building\MiniGuestBookDemoApp\MiniGuestBookDemo\obj\Debug\net6.0\MiniGuestBookDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cr1d3\Desktop\C#\Tim Corey - C# Mastercourse\10. Mini Project - Guest Book\take 2\2. Building\MiniGuestBookDemoApp\MiniGuestBookDemo\obj\Debug\net6.0\MiniGuestBookDemo.AssemblyInfoInputs.cache
+C:\Users\cr1d3\Desktop\C#\Tim Corey - C# Mastercourse\10. Mini Project - Guest Book\take 2\2. Building\MiniGuestBookDemoApp\MiniGuestBookDemo\obj\Debug\net6.0\MiniGuestBookDemo.AssemblyInfo.cs
+C:\Users\cr1d3\Desktop\C#\Tim Corey - C# Mastercourse\10. Mini Project - Guest Book\take 2\2. Building\MiniGuestBookDemoApp\MiniGuestBookDemo\obj\Debug\net6.0\MiniGuestBookDemo.csproj.CoreCompileInputs.cache
+C:\Users\cr1d3\Desktop\C#\Tim Corey - C# Mastercourse\10. Mini Project - Guest Book\take 2\2. Building\MiniGuestBookDemoApp\MiniGuestBookDemo\obj\Debug\net6.0\MiniGuestBookDemo.dll
+C:\Users\cr1d3\Desktop\C#\Tim Corey - C# Mastercourse\10. Mini Project - Guest Book\take 2\2. Building\MiniGuestBookDemoApp\MiniGuestBookDemo\obj\Debug\net6.0\refint\MiniGuestBookDemo.dll
+C:\Users\cr1d3\Desktop\C#\Tim Corey - C# Mastercourse\10. Mini Project - Guest Book\take 2\2. Building\MiniGuestBookDemoApp\MiniGuestBookDemo\obj\Debug\net6.0\MiniGuestBookDemo.pdb
+C:\Users\cr1d3\Desktop\C#\Tim Corey - C# Mastercourse\10. Mini Project - Guest Book\take 2\2. Building\MiniGuestBookDemoApp\MiniGuestBookDemo\obj\Debug\net6.0\MiniGuestBookDemo.genruntimeconfig.cache
+C:\Users\cr1d3\Desktop\C#\Tim Corey - C# Mastercourse\10. Mini Project - Guest Book\take 2\2. Building\MiniGuestBookDemoApp\MiniGuestBookDemo\obj\Debug\net6.0\ref\MiniGuestBookDemo.dll

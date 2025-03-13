@@ -1,0 +1,60 @@
+The Project:
+Build a Console Guest Book. Ask the user for their name and how many are in their party. Keep track of how many people are at the party. At the end, print out the guest list and the total number of guests. 
+
+Testing Samples!
+
+Test Nr1:
+'The Dru Family'
+'Test' - prompted again as not a number
+'4'
+'y'
+'The Storm Family'
+'3'
+'Y' - failed as capital letter ( rectified using .ToLower() )
+'Smith Jones'
+'7'
+'N'
+
+Output Nr1:
+The Dru Family
+The Storm Family
+Smith Jones
+
+Total as 14
+
+Test Nr1 as per the Output Nr1 was Passed Successfully!
+
+Test Nr2:
+'The D1u Family' - failed as contains a number
+'The Dru Family' - passed
+'2'
+'y'
+'The St0rm Fam!ly' - failed as contains number + '!' mark
+'The Storm Family' - passed
+'101010'
+'Y'
+'Smith Jones'
+'-3' - failed as negative number
+'33' - passed as valid val was given
+'N'
+
+Output Nr2:
+The Dru Family
+The Storm Family
+Smith Jones
+
+Total as 101045
+
+Test Nr2 as per the Output Nr2 was Passed Successfully!
+
+My Thought Nr1:
+After line 3, where the user is asked if more guests are coming, there is no line break. As a result, the text appears cluttered and difficult to read. To improve readability, I decided to add 1 Console.WriteLine() statement to create spacing between each input. This helps separate the prompts and makes the output look cleaner and more user-friendly.
+
+My Thought Nr2:
+Only the total number of guests is captured, while the individual number of guests per family is not recorded. Initially, this seemed incorrect to me. However, since the project requirements do not specify the need to track each family's guest count separately, I decided to leave it as is.
+
+
+
+
+
+
