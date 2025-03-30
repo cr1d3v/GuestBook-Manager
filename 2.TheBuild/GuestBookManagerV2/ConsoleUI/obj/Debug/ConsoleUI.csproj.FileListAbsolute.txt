@@ -1,0 +1,10 @@
+C:\Users\cr1d3\Desktop\GuestBookManagerV2\2.TheBuild\GuestBookManagerV2\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\cr1d3\Desktop\GuestBookManagerV2\2.TheBuild\GuestBookManagerV2\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\cr1d3\Desktop\GuestBookManagerV2\2.TheBuild\GuestBookManagerV2\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\cr1d3\Desktop\GuestBookManagerV2\2.TheBuild\GuestBookManagerV2\ConsoleUI\obj\Debug\ConsoleUI.csproj.AssemblyReference.cache
+C:\Users\cr1d3\Desktop\GuestBookManagerV2\2.TheBuild\GuestBookManagerV2\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\cr1d3\Desktop\GuestBookManagerV2\2.TheBuild\GuestBookManagerV2\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\cr1d3\Desktop\GuestBookManagerV2\2.TheBuild\GuestBookManagerV2\ConsoleUI\obj\Debug\ConsoleUI.pdb
+C:\Users\cr1d3\Desktop\GuestBookManagerV2\2.TheBuild\GuestBookManagerV2\ConsoleUI\bin\Debug\GuestBookLibrary.dll
+C:\Users\cr1d3\Desktop\GuestBookManagerV2\2.TheBuild\GuestBookManagerV2\ConsoleUI\bin\Debug\GuestBookLibrary.pdb
+C:\Users\cr1d3\Desktop\GuestBookManagerV2\2.TheBuild\GuestBookManagerV2\ConsoleUI\obj\Debug\ConsoleUI.csproj.Up2Date

@@ -1,0 +1,52 @@
+GuestBook Manager v2 – Planning Notes
+
+Project Type: Console Application (.NET Framework)
+
+Target Framework: 4.7.2
+
+Solution Name: GuestBookManagerV2
+
+Main Project:
+-------------
+Project Name: ConsoleUI
+Purpose: Core console application that handles execution flow, user input, and output formatting.
+
+Class Library:
+--------------
+Project Name: GuestBookLibrary
+Purpose: Contains reusable models and logic classes to separate concerns and promote modularity.
+
+Namespaces:
+-----------
+- ConsoleUI
+- GuestBookLibrary.Models
+
+Key Goals:
+----------
+- Practice modular programming using multiple files and projects.
+- Learn to use custom classes (e.g., GuestModel) and pass objects between methods.
+- Follow SOLID principles, especially SRP (Single Responsibility Principle).
+- Add exception handling for better error resilience.
+- Build a more readable and user-friendly console UI.
+- Prepare the project structure for future enhancements (e.g., saving data to files or databases).
+
+Key Files:
+----------
+- Program.cs → Entry point, manages main application flow
+- GetGuestInfo.cs → Handles all user input (names, guest count, messages)
+- ConsoleMessages.cs → Displays output to the user (intro, final summary)
+- GuestModel.cs → Custom model storing guest-related data with validation logic
+
+Planned Features:
+-----------------
+- Collect guest names and number of guests in each party
+- Validate all input (letters only for names, number range: 1–50)
+- Allow guests to leave a custom message
+- Display a summary of all guests and the total count
+- Use exception handling for robust input logic
+
+Version Notes:
+--------------
+This is an improved version of the original "Mini Guest Book App (v1)".
+v2 introduces object-oriented programming, input validation, better UI formatting, and an overall cleaner architecture.
+

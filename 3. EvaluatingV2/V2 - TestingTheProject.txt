@@ -1,0 +1,89 @@
+=========================================
+GuestBook Manager v2 – Manual Test Cases
+=========================================
+
+Purpose:
+To test the main input scenarios of the Mini Guest Book App (v2), validate improved error handling, and confirm object data is collected and displayed correctly.
+
+---
+
+Test Case #1:
+-------------
+Input:
+- Name: "The Lion Family"
+- Guests: "four" → invalid input (should trigger validation)
+- Guests: "4"
+- Message: "Can't wait for the party!"
+- Continue? "y"
+- Name: "Skylar Storm"
+- Guests: "2"
+- Message: "Excited to be here!"
+- Continue? "n"
+
+Expected Output:
+- Two guest entries with names and messages
+- Total guests = 6
+- Each message appears below its guest name
+- App formats output with spacing and summary line
+
+Test Result: Passed Successfully
+
+---
+
+Test Case #2:
+-------------
+Input:
+- Name: "J0hn & M@ry" → invalid (contains numbers and symbols)
+- Name: "John and Mary" → valid
+- Guests: "-2" → invalid (negative number)
+- Guests: "3"
+- Message: "We brought dessert!"
+- Continue? "y"
+- Name: "Jane Doe"
+- Guests: "0" → invalid (below range)
+- Guests: "50" → valid upper bound
+- Message: "Big group!"
+- Continue? "n"
+
+Expected Output:
+- Two valid guest entries
+- One message per guest
+- Total guest count = 53
+- Name validation and numeric range exceptions handled correctly
+
+Test Result: Passed Successfully
+
+---
+
+Test Case #3:
+-------------
+Input:
+- Name: "" → invalid (empty string)
+- Name: "Mark Tailor"
+- Guests: "3"
+- Message: ""
+- Continue? "Y" → capital 'Y' handled via `.ToLower()`
+- Name: "Anna Lee"
+- Guests: "5"
+- Message: "Hi!"
+- Continue? "n"
+
+Expected Output:
+- Two guests added
+- Accepts empty message
+- Proper line spacing and clear output
+- Total guest count = 8
+
+Test Result: Passed Successfully
+
+---
+
+Notes:
+------------------
+- Added `.ToLower()` logic to accept both 'y' and 'Y' when prompting for continuation.
+- GuestModel now ensures names only contain letters and spaces via `.All(Char.IsLetter)`.
+- NumberOfGuests now enforces the [1–50] range and throws a custom exception on failure.
+- All guest data is stored in a `List<GuestModel>`, showing progression from string-based v1 logic.
+
+All tests passed successfully and reflect the improved structure and validation introduced in v2.
+

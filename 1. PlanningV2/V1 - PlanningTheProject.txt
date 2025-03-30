@@ -1,0 +1,35 @@
+The Project:
+Build a Console Guest Book. Ask the user for their name and how many are in their party. Keep track of how many people are at the party. At the end, print out the guest list and the total number of guests.
+
+BrainStorm:
+- Welcome the user (incl the App Name)
+- Not implicitly said, but ask if more guests are coming ? y/n 
+
+The Planning:
+- Welcome the user + App Name
+
+- ask the user for their party name
+<store the name as a string>
+
+- ask the user for how many guests are at the party
+<store initially as txt(string) but convert to int>
+-- keep track of the total amount of guests at the party
+<add the number to the total (+=)>
+-- check if more guests are coming
+loop back to the top until no more guests
+<end the program if 'n' continue if 'y'>
+
+- Print out the guest list and the total num of guests
+<loop over the names List<string> and print them>
+<print the total guest count>
+
+A simple mini guest book app used as a guineapig to brainstorm through some tools I have revising on c#. The application includes:
+use of methods (Parameters, returning data, Tuples)
+Design Principles such as (DRY - Don't Repeat YOurself) and S-OLID (Single-Responsibility Principle)
+Lists, Loops, variables and conditional statements
+
+The application was developed on C# .Net 6, the application contains 2 classes.
+Main Class - Program.cs
+Logic Class - GuestBookLogic
+
+
