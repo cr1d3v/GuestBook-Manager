@@ -2,36 +2,94 @@
 
 [View my GitHub Profile](https://github.com/cr1d3v)
 
-## The Project Idea
-A simple C# project to practice software design and programming principles.
+---
 
-**GuestBook Manager** is a lightweight project designed as a learning tool to refine and experiment with C# concepts. 
-It serves as a practical exercise for revisiting key programming principles and improving software design practices.
+## 💡 The Project Idea
 
-## Tech Stack
+**GuestBook Manager** is a simple console app built with C# to reinforce core programming concepts and clean design practices.
 
-- **Language:** [C#](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/) – A general-purpose programming language designed by Microsoft.
-- **Framework:** .NET 6
-- **Architecture:** Two-class structure:
-  - **Main Class:** `Program.cs` – Handles execution flow.
-  - **Logic Class:** `GuestBookLogic.cs` – Contains core logic and operations.
+The project was created in two versions to showcase growth and learning over time:
 
-## Key Features & Concepts
-
-- **Methods:** Utilizes parameters, return values, and tuples.
-- **Design Principles:**
-  - **DRY (Don't Repeat Yourself):** Code is structured to avoid redundancy.
-  - **SOLID (Single-Responsibility Principle):** Ensures maintainable and modular code.
-- **Core Programming Constructs:** Lists, loops, variables, and conditional statements.
-
-## Project Structure
-
-The project is organized into **three main folders** for clarity and maintainability:
-
-1. **`Planning/`** – Contains a `.txt` document outlining the application's design and logic.
-2. **`Building/MiniGuestBookDemoApp/`** – Houses the main application files.
-3. **`Evaluating/`** – Stores test cases and execution logs for verifying functionality.
+- 🧪 **Version 1**: Quick prototype inside `MiniGuestBookDemoApp/`
+- 🚀 **Version 2**: Fully structured and modular version in `GuestBookManagerV2/`
 
 ---
 
-🚀 **Thank you for checking out the project!** 
+## 🔨 Tech Stack
+
+- **Language**: [C#](https://learn.microsoft.com/en-us/dotnet/csharp/)
+- **Framework**: .NET Framework 4.7.2 (v2)
+- **Project Type**: Console App + Class Library (in v2)
+
+---
+
+## 📦 Project Structure
+
+| Folder           | Description                                                       |
+| ---------------- | ----------------------------------------------------------------- |
+| `1. Planning/`   | Contains design plans, initial notes, and changelog for v2        |
+| `2. Building/`   | Source code, organized with Console UI + Class Library            |
+| `3. Evaluating/` | Manual test case simulations, sample inputs, and validation notes |
+
+> All of the above live inside: `GuestBookManagerV2/`
+
+---
+
+## 🧠 Key Concepts Practiced
+
+- ✅ **Methods** (return values, parameters, validation)
+- ✅ **Custom Classes & Properties**
+- ✅ **Loops & Conditionals**
+- ✅ **Exception Handling**
+- ✅ **Input Validation**
+- ✅ **List collections**
+- ✅ **Clean Architecture**
+  - Console UI handles interaction
+  - Class Library handles logic
+
+---
+
+## 🔄 What’s New in Version 2?
+
+| Feature                         | Description                                                 |
+| ------------------------------- | ----------------------------------------------------------- |
+| ✅ **Input Validation**         | Party names allow only letters and spaces                   |
+| ✅ **Exception Handling**       | Try/catch logic for guest limits                            |
+| ✅ **Object-Oriented Refactor** | Guests stored as full objects with name, message, and count |
+| ✅ **Separation of Concerns**   | UI and logic split across multiple files and projects       |
+| ✅ **Planning & Evaluation**    | Planning.txt + test cases simulate realistic dev cycle      |
+
+---
+
+## 🧪 Testing
+
+Manual test cases are located under:
+GuestBookManagerV2/3. Evaluating/
+
+They simulate:
+
+- Valid input flows
+- Edge cases (invalid names, negatives, non-numbers)
+- Output formatting
+- App behavior under bad input
+
+---
+
+## 📚 Version History
+
+| Version | Summary                                                            |
+| ------- | ------------------------------------------------------------------ |
+| `v1`    | Prototype app using simple list and loops                          |
+| `v2`    | Professionalized structure, added validation, OOP, and testability |
+
+---
+
+## 🛠 How to Run
+
+Open `ConsoleUI.sln` in Visual Studio  
+Build the solution  
+Run the ConsoleUI project
+
+---
+
+🚀 Thank you for checking out the project!
